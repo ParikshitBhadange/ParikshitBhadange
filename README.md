@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Parikshit Bhadange 👋
 
-<!--
-**ParikshitBhadange/ParikshitBhadange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer | CSE Student | Building Real-World Products
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+Node.js • React • Express • MongoDB • Java • JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- **Janvani** — Civic issue reporting platform | [Live Demo](https://hackgenx.onrender.com)
+- **SmartAgri** — Agricultural inventory & demand forecasting | [Live Demo](https://agri-insights-hub.onrender.com)
+- **SmartCare** — Hospital medicine management system
+
+## 📊 DSA
+Actively solving DSA problems in Java — Striver A-Z + Blind 75
+
+## 📫 Connect
+[LinkedIn](https://linkedin.com/in/parikshitbhadange) | parikshitbhadange00@gmail.com
